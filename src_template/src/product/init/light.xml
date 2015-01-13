@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<application type="school">
+	<sun><!--太阳光的强度-->
+		<r>0.3</r>
+		<g>0.3</g>
+		<b>0.3</b>
+	</sun>
+	<ambient><!--环境光的强度-->
+		<r>0.7</r>
+		<g>0.7</g>
+		<b>0.7</b>
+	</ambient>
+</application>

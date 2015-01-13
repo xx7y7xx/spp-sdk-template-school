@@ -1,0 +1,2 @@
+默认大楼
+    请从D:\p\（项目名称）\src\product\buildInfo文件夹中删除如下三个文件：“默认大楼.cn.txt”，“默认大楼.en.txt”和“默认大楼.jpg”

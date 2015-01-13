@@ -1,0 +1,24 @@
+<library>
+	<textures>
+		<texture name="sky">
+			<type>crystalspace.texture.loader.cubemap</type>
+			<params>
+				<north>/art/models/sky_box/textures/skybox_f.jpg</north>
+				<south>/art/models/sky_box/textures/skybox_b.jpg</south>
+				<east>/art/models/sky_box/textures/skybox_r.jpg</east>
+				<west>/art/models/sky_box/textures/skybox_l.jpg</west>
+				<top>/art/models/sky_box/textures/skybox_u.jpg</top>
+				<bottom>/art/models/sky_box/textures/skybox_d.jpg</bottom>
+			</params>
+		</texture>
+	</textures>
+	<materials>
+		<material name="sky">
+			<shader type="base">sky_basic_cubemap</shader>
+			<shader type="diffuse">sky_basic_cubemap</shader>
+			<shadervar type="texture" name="tex sky">sky</shadervar>
+		</material>
+	</materials>
+	<library>/art/models/sky_box/factories/genSky.xml</library>
+	<library>/art/models/Box/materiallib.xml</library>
+</library>

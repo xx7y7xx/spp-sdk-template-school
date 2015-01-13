@@ -1,0 +1,22 @@
+<application type="school">
+	<roleSelect>
+		<role>
+			<position>[8,5,-20]</position>
+			<rotation>[0,4,0]</rotation>
+		</role>
+		<camera>
+			<position>[10,0,-20]</position>
+			<rotation>[0,1,0]</rotation>
+		</camera>
+	</roleSelect>
+	<roleInitialize>
+		<role>
+			<position>[4,0,-17]</position>
+			<rotation>[0,1,0]</rotation>
+		</role>
+		<camera>
+			<position>[0,0,0]</position>
+			<rotation>[0,0,0]</rotation>
+		</camera>
+	</roleInitialize>
+</application>

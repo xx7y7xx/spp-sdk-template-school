@@ -1,0 +1,2 @@
+Manually when roaming, the mouse click the Lama Temple to
+A surface location will automatically walk to that location.

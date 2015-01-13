@@ -1,0 +1,13 @@
+<POSITION_DATA>
+	<n__n0>
+		<name>
+			<chinese_name>默认大楼</chinese_name>
+			<english_name>test</english_name>
+		</name>
+		<reach_position_x>-233</reach_position_x>
+		<reach_position_y>0</reach_position_y>
+		<reach_position_z>-6</reach_position_z>
+		<reach_rotation_y>-1</reach_rotation_y>
+		<ui_position>{{0.05890469803715384,0},{0.48015060675588966,0},{0.12645436691132603,0},{0.5257779831817453,0}}</ui_position>
+	</n__n0>
+</POSITION_DATA>

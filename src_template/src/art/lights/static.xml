@@ -1,0 +1,75 @@
+<library>
+<sector name="Scene">
+
+	<light name="Omni27">
+		<center x="-3.16347" y="1.67937" z="5.30011"/>
+		<color red="0.94902" green="0.956863" blue="0.972549"/>
+		<radius brightness="0.5">4.0</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>5.0</influenceradius>
+		<specular red="0.94902" green="0.956863" blue="0.972549"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni29">
+		<center x="-0.255336" y="1.65891" z="-0.838179"/>
+		<color red="0.94902" green="0.956863" blue="0.972549"/>
+		<radius>1.97241</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>3.57161</influenceradius>
+		<specular red="0.94902" green="0.956863" blue="0.972549"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni33">
+		<center x="-3.16347" y="1.67937" z="2.47372"/>
+		<color red="0.94902" green="0.956863" blue="0.972549"/>
+		<radius brightness="0.5">4.0</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>5.0</influenceradius>
+		<specular red="0.94902" green="0.956863" blue="0.972549"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni34">
+		<center x="4.93262" y="2.58183" z="3.98996"/>
+		<color red="0.94902" green="0.956863" blue="0.972549"/>
+		<radius brightness="0.2">1.326</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>2.255</influenceradius>
+		<specular red="0.94902" green="0.956863" blue="0.972549"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni01">
+		<center x="0.775919" y="2.06715" z="-2.92605"/>
+		<color red="0.94902" green="0.956863" blue="0.972549"/>
+		<radius brightness="0.5">0.26</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>1.27786</influenceradius>
+		<specular red="0.94902" green="0.956863" blue="0.972549"/>
+		<attenuation c="0.0" l="1.27786" q="1.42575">clq</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni35">
+		<center x="-4.22137" y="1.64664" z="-0.347429"/>
+		<color red="0.94902" green="0.956863" blue="0.972549"/>
+		<radius brightness="0.1">0.26</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>1.27786</influenceradius>
+		<specular red="0.94902" green="0.956863" blue="0.972549"/>
+		<attenuation c="0.0" l="1.27786" q="1.66208">clq</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni26">
+		<center x="-0.255273" y="2.22833" z="-3.81164"/>
+		<color red="0.94902" green="0.956863" blue="0.972549"/>
+		<radius brightness="3.0">4.0</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>5.0</influenceradius>
+		<specular red="0.94902" green="0.956863" blue="0.972549"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+</sector>
+</library>

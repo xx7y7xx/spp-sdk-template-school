@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Imageset xmlns:mx="http://www.adobe.com/2006/mxml" Name="progressbar" Imagefile="/ui/data/progressbar.png">
+	<Image Name="jindutiao" XPos="0" YPos="0" Width="836" Height="22"/>
+	<Image Name="jindu_bg" XPos="0" YPos="27" Width="226" Height="155"/>
+	<Image Name="hongfangkuai" XPos="843" YPos="0" Width="8" Height="19"/>
+</Imageset>

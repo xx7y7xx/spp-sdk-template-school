@@ -1,0 +1,27 @@
+<wanders>
+	<wander>
+		<start posX="277.678" posY="27.8441" posZ="-0.407906" rotX="0.625722" rotY="-1.9035" rotZ="0.0" />
+		<wander0 posX="277.678" posY="27.8441" posZ="-0.407906" rotX="0.625722" rotY="-1.9035" rotZ="0.0" />
+		<wander1 posX="278.766" posY="29.2606" posZ="0.826867" rotX="0.683055" rotY="-2.16144" rotZ="0.0" />
+		<wander2 posX="279.848" posY="30.6631" posZ="2.0406" rotX="0.692411" rotY="-2.23362" rotZ="0.0" />
+		<wander3 posX="280.922" posY="32.0517" posZ="3.2333" rotX="0.695661" rotY="-2.26686" rotZ="0.0" />
+		<wander4 posX="281.991" posY="33.4263" posZ="4.40497" rotX="0.697128" rotY="-2.28574" rotZ="0.0" />
+		<wander5 posX="283.053" posY="34.787" posZ="5.55559" rotX="0.697861" rotY="-2.29778" rotZ="0.0" />
+		<wander6 posX="284.108" posY="36.1337" posZ="6.68518" rotX="0.698226" rotY="-2.30603" rotZ="0.0" />
+		<wander7 posX="285.156" posY="37.4665" posZ="7.79374" rotX="0.698381" rotY="-2.31195" rotZ="0.0" />
+		<wander8 posX="286.198" posY="38.7853" posZ="8.88126" rotX="0.698404" rotY="-2.31635" rotZ="0.0" />
+		<wander9 posX="287.234" posY="40.0902" posZ="9.94774" rotX="0.698339" rotY="-2.3197" rotZ="0.0" />
+		<wander10 posX="288.263" posY="41.3811" posZ="10.9932" rotX="0.698212" rotY="-2.32228" rotZ="0.0" />
+		<wander11 posX="289.285" posY="42.6581" posZ="12.0176" rotX="0.698041" rotY="-2.32429" rotZ="0.0" />
+		<wander12 posX="290.3" posY="43.9211" posZ="13.021" rotX="0.697832" rotY="-2.32587" rotZ="0.0" />
+		<wander13 posX="291.309" posY="45.1702" posZ="14.0033" rotX="0.697598" rotY="-2.32711" rotZ="0.0" />
+		<wander14 posX="292.312" posY="46.4054" posZ="14.9646" rotX="0.69734" rotY="-2.32807" rotZ="0.0" />
+		<wander15 posX="293.308" posY="47.6266" posZ="15.9049" rotX="0.697064" rotY="-2.32881" rotZ="0.0" />
+		<wander16 posX="294.297" posY="48.8338" posZ="16.8241" rotX="0.696772" rotY="-2.32936" rotZ="0.0" />
+		<wander17 posX="295.28" posY="50.0271" posZ="17.7223" rotX="0.696465" rotY="-2.32976" rotZ="0.0" />
+		<wander18 posX="296.256" posY="51.2064" posZ="18.5994" rotX="0.696147" rotY="-2.33003" rotZ="0.0" />
+		<wander19 posX="297.226" posY="52.3718" posZ="19.4556" rotX="0.695817" rotY="-2.33018" rotZ="0.0" />
+		<wander20 posX="298.189" posY="53.5233" posZ="20.2906" rotX="0.695478" rotY="-2.33024" rotZ="0.0" />
+		<wander21 posX="299.145" posY="54.6608" posZ="21.1047" rotX="0.695129" rotY="-2.33021" rotZ="0.0" />
+	</wander>
+</wanders>

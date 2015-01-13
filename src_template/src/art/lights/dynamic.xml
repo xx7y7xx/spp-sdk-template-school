@@ -1,0 +1,15 @@
+<library>
+<sector name="Scene">
+	<ambient red="0.117647" green="0.117647" blue="0.117647" />
+	<light name="Omni04">
+		<center x="-0.181173" y="2.1826" z="-3.80483"/>
+		<color red="0.94902" green="0.956863" blue="0.972549"/>
+		<radius brightness="10.0">8.32459</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>13.4161</influenceradius>
+		<specular red="0.94902" green="0.956863" blue="0.972549"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+</sector>
+</library>

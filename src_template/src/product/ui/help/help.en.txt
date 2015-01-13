@@ -1,0 +1,14 @@
+Mode of operation
+Keyboard directional control guidelines.
+Features
+1.Campuses introduce
+Click on the "Campus Description" button, you can understand the history of the school, teaching, faculty and campus culture, faculty professional settings, learning life services, allowing you to have a preliminary understanding of the campus.
+2.Perspective of control
+3.Go to run switch
+4.Perspective switch
+5.Photograph
+6.Rapid positioning
+7.Electronic sand table
+8.Campus roaming
+9.Settings (language switch, music)
+10.Help

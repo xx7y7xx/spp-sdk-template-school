@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<library>
+	<textures>
+		<texture name="spp_bird1.png">
+			<file>/art/models/bird/textures/bird1.png</file>
+			<alpha>
+				<binary />
+			</alpha>
+		</texture>
+	</textures>
+	<materials>
+		<material name="spp_bird1">
+			<texture>spp_bird1.png</texture>
+			<shader type="diffuse">*null</shader>
+			<shader type="ambient">ambient</shader>
+		</material>
+	</materials>
+	<library>/art/models/bird/factories/bird1.xml</library>
+</library>

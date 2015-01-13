@@ -1,0 +1,1225 @@
+<library>
+<sector name="Scene">
+	<ambient red="0.117647" green="0.117647" blue="0.117647" />
+	<light name="Omni233">
+		<center x="-1.00517" y="3.62606" z="-6.39515"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni232">
+		<center x="-1.54967" y="3.62606" z="-6.39515"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni231">
+		<center x="-2.08108" y="3.62606" z="-6.39515"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni228">
+		<center x="-4.1279" y="3.62606" z="7.57688"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni225">
+		<center x="-2.86194" y="3.62606" z="7.57688"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni222">
+		<center x="-5.11216" y="3.62606" z="1.17788"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni219">
+		<center x="-5.11216" y="3.62606" z="5.00533"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni215">
+		<center x="-5.11216" y="3.62606" z="6.243"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni211">
+		<center x="-5.11216" y="3.62606" z="3.71387"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni206">
+		<center x="-5.11216" y="3.62606" z="2.41555"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni203">
+		<center x="-5.07643" y="3.62606" z="7.55702"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni199">
+		<center x="-1.74604" y="3.62606" z="7.57018"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni195">
+		<center x="-1.74604" y="3.62606" z="5.00533"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni191">
+		<center x="-1.74604" y="3.62606" z="6.243"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni187">
+		<center x="-1.74604" y="3.62606" z="3.71387"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni182">
+		<center x="-1.74604" y="3.62606" z="2.41555"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni178">
+		<center x="-1.77868" y="3.62606" z="1.17788"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni177">
+		<center x="6.28597" y="3.62606" z="0.834868"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni176">
+		<center x="5.58832" y="3.62606" z="0.834868"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni175">
+		<center x="4.88259" y="3.62606" z="0.834868"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni174">
+		<center x="4.16254" y="3.62606" z="0.834868"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni173">
+		<center x="3.42805" y="3.62606" z="0.834868"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni172">
+		<center x="2.75196" y="3.62606" z="5.43236"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni171">
+		<center x="2.75196" y="3.62606" z="4.53218"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni170">
+		<center x="2.75196" y="3.62606" z="3.67219"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni169">
+		<center x="2.75196" y="3.62606" z="2.73171"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni168">
+		<center x="2.75196" y="3.62606" z="1.84695"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni167">
+		<center x="6.97686" y="3.62606" z="1.84695"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni166">
+		<center x="6.97686" y="3.62606" z="2.71762"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni165">
+		<center x="6.97686" y="3.62606" z="3.66736"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni164">
+		<center x="6.97686" y="3.62606" z="4.54758"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni163">
+		<center x="6.97686" y="3.62606" z="5.49043"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni162">
+		<center x="6.40256" y="3.62606" z="6.48189"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni161">
+		<center x="5.66862" y="3.62606" z="6.48189"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni160">
+		<center x="4.86045" y="3.62606" z="6.48189"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni159">
+		<center x="4.04491" y="3.62606" z="6.48189"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni158">
+		<center x="3.30284" y="3.62606" z="6.48189"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni157">
+		<center x="6.97686" y="3.62606" z="3.177"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni156">
+		<center x="6.9732" y="3.62606" z="1.463"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni155">
+		<center x="6.9732" y="3.62606" z="2.27531"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni154">
+		<center x="6.97686" y="3.62606" z="5.00467"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni153">
+		<center x="6.97686" y="3.62606" z="5.92966"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni152">
+		<center x="6.97686" y="3.62606" z="4.09744"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni151">
+		<center x="6.75111" y="3.62606" z="6.48978"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni150">
+		<center x="2.74793" y="3.62606" z="1.36312"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni149">
+		<center x="2.74793" y="3.62606" z="2.27531"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni148">
+		<center x="5.92239" y="3.62606" z="0.822622"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni147">
+		<center x="5.24954" y="3.62606" z="0.822622"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni145">
+		<center x="4.55217" y="3.62606" z="0.822622"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni143">
+		<center x="3.7943" y="3.62606" z="0.822622"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni138">
+		<center x="6.04834" y="3.62606" z="6.48978"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni136">
+		<center x="5.312" y="3.62606" z="6.48978"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni134">
+		<center x="4.45222" y="3.62606" z="6.48978"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni132">
+		<center x="3.65095" y="3.62606" z="6.48978"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni119">
+		<center x="6.67443" y="3.62606" z="0.834868"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni118">
+		<center x="2.75159" y="3.62606" z="5.00467"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni116">
+		<center x="2.75159" y="3.62606" z="5.92966"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni114">
+		<center x="2.95658" y="3.62606" z="6.48189"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni111">
+		<center x="2.75159" y="3.62606" z="4.09744"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni109">
+		<center x="2.75159" y="3.62606" z="3.177"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni107">
+		<center x="3.02328" y="3.62606" z="0.834868"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.0416719</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.075052</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni106">
+		<center x="0.0671622" y="3.34721" z="0.600937"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.825317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni105">
+		<center x="-4.6577" y="3.34721" z="-0.113017"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.825317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni104">
+		<center x="-4.6577" y="3.34721" z="0.605626"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.825317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni103">
+		<center x="-2.78891" y="3.34721" z="-0.195913"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.825317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni102">
+		<center x="-7.50922" y="3.34721" z="-0.184502"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.825317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni101">
+		<center x="-8.70661" y="3.34721" z="0.0265094"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.825317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni100">
+		<center x="-8.09557" y="3.34721" z="0.431803"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.825317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni99">
+		<center x="-6.72819" y="3.34721" z="0.0329176"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.825317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni98">
+		<center x="-6.03504" y="3.34721" z="0.415223"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.825317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni97">
+		<center x="-5.29415" y="3.34721" z="0.216165"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.825317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni96">
+		<center x="-3.9727" y="3.34721" z="0.0112894"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.825317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni95">
+		<center x="-3.37946" y="3.34721" z="0.41112"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.825317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni94">
+		<center x="-2.02548" y="3.34721" z="0.0488187"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.825317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni93">
+		<center x="-1.29387" y="3.34721" z="0.414157"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.825317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni92">
+		<center x="1.35487" y="3.34721" z="0.414157"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.825317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni91">
+		<center x="0.750791" y="3.34721" z="0.00712287"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.825317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni90">
+		<center x="-0.563557" y="3.34721" z="0.219753"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.825317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni89">
+		<center x="0.069375" y="3.34721" z="-0.122101"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.825317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni88">
+		<center x="2.12591" y="3.62606" z="0.455846"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni87">
+		<center x="2.12591" y="3.62606" z="-0.245445"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni86">
+		<center x="1.07808" y="3.62606" z="-6.39515"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni84">
+		<center x="1.62258" y="3.62606" z="-6.39515"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni81">
+		<center x="-2.62354" y="3.62606" z="-6.2236"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni78">
+		<center x="-2.62354" y="3.62606" z="-3.92131"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni77">
+		<center x="-2.62354" y="3.62606" z="-2.83971"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni76">
+		<center x="-2.62354" y="3.62606" z="-1.77206"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni75">
+		<center x="-2.62354" y="3.62606" z="-1.25847"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni74">
+		<center x="2.12591" y="3.62606" z="-0.935332"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni71">
+		<center x="2.12591" y="3.62606" z="-2.92689"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni70">
+		<center x="2.12591" y="3.62606" z="-3.59156"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni69">
+		<center x="2.12591" y="3.62606" z="-4.26345"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni68">
+		<center x="2.12591" y="3.62606" z="-4.9352"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni67">
+		<center x="2.12591" y="3.62606" z="-5.59693"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni66">
+		<center x="2.12591" y="3.62606" z="-6.26634"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni64">
+		<center x="-8.50183" y="3.62606" z="-1.17407"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni63">
+		<center x="-5.77721" y="3.62606" z="-1.17407"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni62">
+		<center x="-6.46153" y="3.62606" z="-1.17407"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni61">
+		<center x="-7.13985" y="3.62606" z="-1.17407"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni60">
+		<center x="-7.82098" y="3.62606" z="-1.17407"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni59">
+		<center x="-5.10225" y="3.62606" z="-1.17407"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni58">
+		<center x="-4.42112" y="3.62606" z="-1.17407"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni57">
+		<center x="-3.7428" y="3.62606" z="-1.17452"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni56">
+		<center x="-3.05848" y="3.62606" z="-1.17452"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni55">
+		<center x="-0.509355" y="3.62606" z="-6.39515"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni53">
+		<center x="0.0271802" y="3.62606" z="-6.39515"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni51">
+		<center x="0.546678" y="3.62606" z="-6.39515"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni47">
+		<center x="-2.63454" y="3.62606" z="-2.29545"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni46">
+		<center x="-2.63454" y="3.62606" z="-3.39236"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni45">
+		<center x="-2.63454" y="3.62606" z="-4.49254"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni44">
+		<center x="-2.63454" y="3.62606" z="-5.05349"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni43">
+		<center x="-2.63454" y="3.62606" z="-5.64177"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni42">
+		<center x="2.12591" y="3.62606" z="-1.58217"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni41">
+		<center x="2.12591" y="3.62606" z="-2.2525"/>
+		<color red="0.976471" green="0.976471" blue="0.976471"/>
+		<radius brightness="0.001">0.221672</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.415317</influenceradius>
+		<specular red="0.976471" green="0.976471" blue="0.976471"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni30">
+		<center x="-3.37874" y="1.42187" z="2.52083"/>
+		<color red="0.94902" green="0.956863" blue="0.972549"/>
+		<radius brightness="0.1">0.29</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.58341</influenceradius>
+		<specular red="0.94902" green="0.956863" blue="0.972549"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni23">
+		<center x="-6.96618" y="2.83375" z="4.60042"/>
+		<color red="0.94902" green="0.956863" blue="0.972549"/>
+		<radius brightness="4.0">1.94795</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>2.40182</influenceradius>
+		<specular red="0.94902" green="0.956863" blue="0.972549"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni21">
+		<center x="4.94318" y="1.53404" z="4.0021"/>
+		<color red="0.94902" green="0.956863" blue="0.972549"/>
+		<radius brightness="0.5">1.90535</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>1.36746</influenceradius>
+		<specular red="0.94902" green="0.956863" blue="0.972549"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni19">
+		<center x="-2.33268" y="1.53551" z="-0.276453"/>
+		<color red="0.94902" green="0.956863" blue="0.972549"/>
+		<radius brightness="0.1">2.38906</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>3.20285</influenceradius>
+		<specular red="0.94902" green="0.956863" blue="0.972549"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni18">
+		<center x="-6.96618" y="2.07674" z="4.60042"/>
+		<color red="0.94902" green="0.956863" blue="0.972549"/>
+		<radius brightness="4.0">3.7161</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>5.23228</influenceradius>
+		<specular red="0.94902" green="0.956863" blue="0.972549"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni13">
+		<center x="-3.37868" y="1.77606" z="4.37766"/>
+		<color red="0.94902" green="0.956863" blue="0.972549"/>
+		<radius brightness="0.5">1.34163</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>2.08385</influenceradius>
+		<specular red="0.94902" green="0.956863" blue="0.972549"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni09">
+		<center x="-3.37874" y="1.42187" z="6.27796"/>
+		<color red="0.94902" green="0.956863" blue="0.972549"/>
+		<radius brightness="0.1">0.33</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>0.61341</influenceradius>
+		<specular red="0.94902" green="0.956863" blue="0.972549"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+	<light name="Omni03">
+		<center x="-0.181173" y="1.58717" z="-3.80483"/>
+		<color red="0.94902" green="0.956863" blue="0.972549"/>
+		<radius brightness="5.0">4.37954</radius>
+		<dynamic>false</dynamic>
+		<influenceradius>4.91411</influenceradius>
+		<specular red="0.94902" green="0.956863" blue="0.972549"/>
+		<attenuation c="0" l="1" q="0">realistic</attenuation>
+		<type>pointlight</type>
+	</light>
+</sector>
+</library>

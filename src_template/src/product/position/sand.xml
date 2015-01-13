@@ -1,0 +1,9 @@
+<application type="school">
+	<sandTable>
+		<label id="默认大楼">
+			<uiPosition>[-120,30,-74]</uiPosition>
+			<playerPosition>[-120,0,-64]</playerPosition>
+			<playerRotation>[0,0,0]</playerRotation>
+		</label>
+	</sandTable>
+</application>
